@@ -18,5 +18,6 @@
 <h2>🎈 Usage</h2>
 <h2>🚀 Deployment</h2>
 <h2>⛏️ Built using</h2>
-<h2>✍️ Authors</h2> <a name="authors"></a>+[@VECTOR20temp](https://www.github.com/VECTOR20temp)
+# ✍️ Authors <a name="authors"></a> 
++[@VECTOR20temp](https://www.github.com/VECTOR20temp) : Initial idea
 <h2>🎉 Acknowledgemwnt</h2>
